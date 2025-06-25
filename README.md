@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I’m Khaled Elgohary — a curious, coffee-fueled Full-Stack Developer with a passion for crafting thoughtful, user-centered products. With a BSc in Computer Science and a Minor in Math, I thrive at the intersection of clean code, smart systems, and great design.</h1>
+<h1 align="center">Hey there 👋 I’m Khaled Elgohary — a curious Full-Stack Developer with a passion for crafting thoughtful, user-centered products. With a BSc in Computer Science and a Minor in Math, I thrive at the intersection of clean code, smart systems, and great design.</h1>
 
 ###
 
