@@ -1,38 +1,17 @@
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHM1Njc1cmxvZ3V6MmJwdzFwbWFoMmQwdXc5YjFwbmVsNng2cWpxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1679iPKc2ZP840Hxjp/giphy.gif"  />
-</div>
+###
+
+<h1 align="center">Hey there 👋 I’m Khaled Elgohary </h1>
 
 ###
 
-<div align="center">
-  <a href="https://codepen.io/Khaled-Elgohary" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/khaled-elgohary2002/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="khaled.dev1010@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<h1 align="left">About Me</h1>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=khaledElgohary.khaledElgohary&"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋 I’m Khaled Elgohary — a curious Full-Stack Developer with a passion for crafting thoughtful, user-centered products. With a BSc in Computer Science and a Minor in Math, I thrive at the intersection of clean code, smart systems, and great design.</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">🔧 Currently working full-time as an Software Developer & Operations Analyst, I contribute to both backend and frontend systems, helping streamline processes and deliver clean, functional code.<br><br>💻 My toolkit includes JavaScript, Python, TypeScript, Java, C/C++, PHP, React, Angular, JQuery, Laravel, NextJs, Django, Flask, and I’m always eager to level up and explore new technologies.<br><br>🚀 My goal is to dive deeper into product design — mastering the art of crafting intuitive, user-friendly interfaces that bridge the gap between design and frontend development. I believe great design leads to great experiences, and I’m excited to bring that philosophy into every product I build.<br><br>📊 I also have experience in data analysis, software testing, and database development, giving me a strong foundation across the stack.<br><br>📍 Based in Winnipeg, MB 🇨🇦</p>
+  
+  <p>🫡 | Thanks for stopping by! I'm a recent CompSci grad based in Winnipeg Manitoba, currently working as a Software Developer & Operations Specialist. In my current job, I contribute to both backend and frontend code + helping to streamline company processes & operations.</p>
+  <p>🧰 | My toolkit includes Python, Java, C/C++, JavaScript/TypeScript, React, Nextjs, JQuery, Django & Flask + more technologies. I'm always eager to learn more and explore new technologies</p>
+  <p>🚀 | My goal is to dive deeper into product design, taking an idea that doesn't have a personality or feel, and supplying it with that.</p>
+  <p>🧠 | I also have experience in Data Analysis, DevOps, and Software Testing.</p>
 
 ###
 
@@ -72,8 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img width="12" />
